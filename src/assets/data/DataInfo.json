@@ -1,0 +1,22 @@
+[
+    {"name" : "Zaman",
+     "status":"active"},
+
+     {"name" : "Moon",
+     "status":"active"},
+
+     {"name" : "Nur",
+     "status":"active"},
+
+     {"name" : "Nuruzzaman",
+     "status":"completed"},
+
+     {"name" : "Shuvo",
+     "status":"completed"},
+
+     {"name" : "Asif",
+     "status":"pending"},
+
+     {"name" : "Nahid",
+     "status":"archive"}
+]
